@@ -16,4 +16,4 @@ elif st.button("A LA DEEN Clean"):
 elif st.button("App Clean"):
     st.switch_page("pages/clean_app.py")
 elif st.button("Chang Info"):
-    st.switch_page("transform_app.py")
+    st.switch_page("pages/transform_app.py")
