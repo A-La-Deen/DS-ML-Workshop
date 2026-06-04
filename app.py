@@ -19,5 +19,5 @@ elif st.button("Chang Info"):
     st.switch_page("pages/transform_app.py")
 elif st.button("EDA"):
     st.switch_page("pages/EDA_app.py")
-elif st.button("Unseen"):
+elif st.button("Unseen")
     st.switch_page("pages/Unseen_app.py")
