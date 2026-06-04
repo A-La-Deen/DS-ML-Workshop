@@ -20,4 +20,4 @@ elif st.button("Chang Info"):
 elif st.button("EDA"):
     st.switch_page("pages/EDA_app.py")
 elif st.button("Seen"):
-    st.switch_page("pages/Seen_app.py")
+    st.switch_page("pages/sale_predict.py")
