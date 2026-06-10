@@ -25,3 +25,5 @@ elif st.button("Clustering"):
     st.switch_page("pages/clustering_segment.py")
 elif st.button("Association"):
     st.switch_page("pages/association_items.py")
+elif st.button("Association_Re"):
+    st.switch_page("pages/association_items.py")
