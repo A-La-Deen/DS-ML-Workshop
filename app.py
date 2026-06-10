@@ -21,5 +21,5 @@ elif st.button("EDA"):
     st.switch_page("pages/EDA_app.py")
 elif st.button("Seen"):
     st.switch_page("pages/sale_predict.py")
-    elif st.button("Clustering"):
-    st.switch_page("pages/sale_predict.py")
+elif st.button("Clustering"):
+    st.switch_page("pages/Clustering.py")
