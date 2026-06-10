@@ -23,3 +23,5 @@ elif st.button("Seen"):
     st.switch_page("pages/sale_predict.py")
 elif st.button("Clustering"):
     st.switch_page("pages/Clustering.py")
+elif st.button("Association"):
+    st.switch_page("pages/Clustering.py")
